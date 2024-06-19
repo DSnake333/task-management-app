@@ -50,27 +50,6 @@ A simple task management application built with React, Axios, and React Testing 
     npm test
     ```
 
-## Project Structure
-
-    ```
-    task-management-app
-    ├── client
-    │   ├── src
-    │   │   ├── components
-    │   │   │   ├── App.js
-    │   │   │   ├── App.test.js
-    │   │   │   ├── TaskForm.js
-    │   │   │   ├── TaskForm.test.js
-    │   │   │   ├── TaskList.js
-    │   │   │   ├── TaskList.test.js
-    │   │   ├── index.js
-    │   │   ├── setupTests.js
-    │   ├── public
-    │   ├── package.json
-    │   ├── README.md
-    ├── server (if applicable)
-    ```
-
 ## MongoDB Atlas Setup
 
 To use the application with MongoDB Atlas, follow these steps:
@@ -85,7 +64,7 @@ To use the application with MongoDB Atlas, follow these steps:
     - In your project directory, locate the server configuration files (if applicable) where the MongoDB connection string needs to be set (often found in `server/config` or similar).
     - Update the connection string in your application code to point to your MongoDB Atlas cluster. Replace the placeholder values with your MongoDB Atlas credentials.
 
-5. Make sure the server is running by using (`npm start`) in the server directory.
+5. Make sure the server is running by using `npm start` in the server directory.
 
 ## Contributing
 
