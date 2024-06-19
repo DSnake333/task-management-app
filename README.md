@@ -7,7 +7,6 @@ A simple task management application built with React, Axios, and React Testing 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Project Structure](#project-structure)
 - [MongoDB Atlas Setup](#mongodb-atlas-setup)
 - [Contributing](#contributing)
 - [License](#license)
