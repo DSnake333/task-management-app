@@ -1,6 +1,6 @@
 # Task Management App
 
-A simple task management application built with React, Axios, and React Testing Library.
+A simple task management application built with React, Axios, MongoDB and tested using React Testing Library.
 
 ## Table of Contents
 
